@@ -1,0 +1,1 @@
+web: anycable-go
